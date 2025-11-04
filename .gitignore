@@ -54,3 +54,5 @@ SyncToy*
 # Sphynx doc detritus
 _build
 _themes
+# gha created files
+.ci_githooks
